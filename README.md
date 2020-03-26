@@ -7,6 +7,12 @@
 
 >Click [here](https://miguelro123.github.io/Pricegas/) to see Pricegas landing page.
 
+# Technologies used :satellite:
+
+>With the help of Leaflet, i built this app because it is very interactive on a mobile phone
+>and is mounted on Openstreestmap.
+
+
 # Contributing :necktie:
 
  - Edgar Miguel Rodriguez G. - [Twitter](https://twitter.com/Migue65007333) & [Github](https://github.com/Miguelro123)
