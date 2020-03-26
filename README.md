@@ -5,8 +5,8 @@
 
 # Project's landing page :computer:
 
->Click [here](https://miguelro123.github.io/Pricegas/) to see Commodoro landing page.
+>Click [here](https://miguelro123.github.io/Pricegas/) to see Pricegas landing page.
 
 # Contributing :necktie:
 
- - Edgar Miguel Rodriguez G. - [twitter](https://twitter.com/Migue65007333) & [Github](https://github.com/Miguelro123)
+ - Edgar Miguel Rodriguez G. - [Twitter](https://twitter.com/Migue65007333) & [Github](https://github.com/Miguelro123)
